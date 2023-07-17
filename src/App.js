@@ -39,9 +39,6 @@ function App() {
       setClicked(false);
     }
   }
-  //bg-gradient-to-t from-[#08041f] from-30% to-[#5a3a54]
-  // bg-no-repeat bg-center bg-cover h-screen
-  //style={{backgroundImage:`url(${watch})`}}
   return (
     <div className="w-full h-screen ">
       <div
